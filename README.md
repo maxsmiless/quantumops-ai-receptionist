@@ -1,1 +1,0 @@
-# quantumops-ai-receptionist
